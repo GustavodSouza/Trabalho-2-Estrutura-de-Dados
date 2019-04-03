@@ -1,0 +1,23 @@
+Funcionalidades desenvolvidas:
+
+1. A região representada deve ser inicializada pelos pontos passados (arquivo entrada.txt, acessível no moodle juntamente a este documento). 
+Pode ser iniciado de forma manual ou através de código de leitura do arquivo.
+
+2. Deve permitir que o usuário cadastre novas cidades ou caminhos entre duas cidades. 
+
+3. Para cada cidade deve-se saber o nome e a distância em KM para suas vizinhas. 
+Cidades vizinhas são conectadas diretamente, através de uma aresta (nós adjacentes). Ex: SM e POA.  
+
+4. Remover caminho entre cidades.
+
+5. O sistema deve permitir a alteração dos dados de qualquer cidade da região, inclusive a distância entre cidades vizinhas. 
+
+6. O programa deve permitir listar todos os vizinhos de uma cidade informada pelo usuário, juntamente com a distância para cada uma delas. 
+
+
+Nao desenvolvidas:
+
+1- Remover cidades.
+
+7. O programa deve permitir ao usuário selecionar duas cidades quaisquer para visualizar as rotas entre elas, juntamente com a distância de cada uma. 
+Caso exista mais de uma rota, o programa deve sugerir a melhor delas (menor custo total). 
